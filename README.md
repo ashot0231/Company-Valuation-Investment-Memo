@@ -8,7 +8,7 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-orange?style=for-the-badge)
 ![Finance](https://img.shields.io/badge/Finance-Investment%20Analysis-green?style=for-the-badge)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter)
-# Microsoft Financial Analysis & Investment Evaluation
+
 
 ## Project Overview
 
